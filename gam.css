@@ -1,0 +1,6 @@
+canvas{
+    border:10px solid black;
+    background: url(mario.png) no-repeat  fixed;
+    background-size: cover;
+    
+}
